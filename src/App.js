@@ -9,7 +9,7 @@ import {
   WhatGPT3,
 } from "./containers";
 import { Article, Brand, CTA, Feature, Navbar } from "./components";
-import "./app.css";
+import "./App.css";
 
 const App = () => {
   return (
